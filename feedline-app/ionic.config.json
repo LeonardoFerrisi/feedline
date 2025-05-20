@@ -1,0 +1,7 @@
+{
+  "name": "feedline-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
